@@ -1,1 +1,2 @@
-Download this file and change your database name
+Change database name
+Design By Muhammad Ahmed Iqbal.
