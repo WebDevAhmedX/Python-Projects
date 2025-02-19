@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root"; 
 $password = "";
-$dbname = "add your database name";
+$dbname = "batchsetup";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
